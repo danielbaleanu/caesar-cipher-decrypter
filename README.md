@@ -1,5 +1,5 @@
 # Caesar Cipher Decrypter
-A proof of concept for performing cracking an encoded message (encoded with Caesar's Cipher) using Python.
+Proof of concept for cracking an encoded message (encoded with Caesar's Cipher) using Python.
 
 ## Description
 This project demonstrates the brute force cracking method overlayed with multiple filters (e.g. 'langdetect') in order to minimise the user's need for intervention into the list of potentially decrypted messages.
