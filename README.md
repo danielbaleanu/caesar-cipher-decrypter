@@ -8,9 +8,11 @@ Using this implementation, the program manages to output strightforward the clea
 ## Getting Started
 To use this project, follow these steps:
 
-1. **Install the Required Dependencies**: `langdetect` - `$ pip install langdetect` or `$ pip3 install langdetect`;
+1. **Install the Required Dependencies**:
+    - 'langdetect' - `pip install langdetect` or `pip3 install langdetect`;
+    - 're' - should be preinstalled as it is part of the standard Python library;
 
-2. **Run the program**: `& python caesar-cipher-decrypter` or `& python3 caesar-cipher-decrypter`.
+3. **Run the program**: `python caesar-cipher-decrypter` or `python3 caesar-cipher-decrypter`.
 
 ## License
 This project is open-source.
